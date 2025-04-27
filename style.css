@@ -1,0 +1,39 @@
+body {
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.header, .footer {
+    background-color: #1f2937;
+}
+
+nav {
+    margin: 0 3em;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+    gap: 16px;
+    padding: 0;
+} 
+
+ul a {
+    text-decoration: none;
+    color: #f9faf8;
+}
+
+ul li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 700;
+    margin-right: auto;
+}
