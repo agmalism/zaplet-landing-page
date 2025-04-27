@@ -40,4 +40,21 @@ ul li {
 
 .hero {
     background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.hero-left {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    align-self: flex-start;
+}
+
+img {
+    width: 300px; 
+    height: auto;
 }
