@@ -16,3 +16,7 @@ By completing this landing page project, I will demonstrate:
 - Styling a clean interface using CSS and Flexbox.
 - Organizing a project folder properly and practicing clean code habits.
 - Using Git for version control and project tracking.
+
+### Attributes
+
+Image in hero by [Freepik](https://www.freepik.com/free-photo/modern-equipped-computer-lab_21797031.htm#fromView=keyword&page=1&position=5&uuid=d9a22a3a-48b5-479f-9ff5-00bd91b53f3a&query=Saas+Dashboard)
